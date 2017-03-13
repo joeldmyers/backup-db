@@ -1,2 +1,2 @@
 # backup-db
-Simple Script to back up a database and SCP it to a remote server
+This is a simple script that backs up (dumps) a database stored locally or in a local network, and then uploads that script to a remote server.  
